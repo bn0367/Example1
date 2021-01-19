@@ -35,4 +35,3 @@ for (test_group in 1:nfold) {
   
 mean(result)
 sd(result)
-
