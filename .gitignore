@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 .RDataFiles
 .idea
+=======
+>>>>>>> 614d70e0adc7d77da282a94fba2b3bd34fafcabb
